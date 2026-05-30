@@ -103,3 +103,18 @@ Linux • Git • Burp Suite • Metasploit • Nmap • Postman
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
+# 📊 GitHub Activity
+
+## 🔥 GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=ganeshpatil64&theme=dark)](https://git.io/streak-stats)
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganeshpatil64&show_icons=true&theme=dark)
+
+## 📊 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganeshpatil64&theme=github-dark)
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ganeshpatil64&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshpatil64&layout=compact&theme=dark)
