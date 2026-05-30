@@ -80,6 +80,21 @@ Linux • Git • Burp Suite • Metasploit • Nmap • Postman
 </p>
 
 ---
+## 💻 Linux & Unix-based Experience
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arch,kali,redhat,ubuntu,bsd,debian,emacs,gtk,mint,nix,qt,bash,neovim,vim,linux,git&perline=10" />
+</p>
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,anaconda,arduino,bootstrap,cloudflare,cmake,dart,vscode,electron,flutter,gcp,gradle,latex,md,maven,netlify,nginx,nodejs,notion,npm,bun,obsidian,opencv,pnpm,postman,pycharm,regex,replit,rust,scala,swift,vercel,heroku,go,powershell,lua,js,java,ts,sqlite,tailwind,tensorflow,threejs,vite,vscodium,wordpress,zig,selenium,react,html,css,django,flask,fastapi,mysql,postgres,mongodb,supabase,aws,azure,firebase,docker,kubernetes&perline=10" />
+</p>
+
+<p align="center" style="color:#00ddff; font-weight:600; font-size:1.25em;">
+  <i>“Security is not a product, but a process.”</i>
+</p>
 
 <p align="center">
 <b>“First build it. Then secure it.” 🔐</b>
