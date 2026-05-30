@@ -2,8 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Patil%20Ganesh&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">🔐 Cybersecurity Researcher | 💻 Developer | 🐧 Red Syntax⛔
+<h1 align="center">
+  👨‍🎓 Cybersecurity Student | Linux Enthusiast | Future Pentester
+</h2>
 
+<p align="center">
+  🔐 Offensive Security • 🐧 Linux • 🌐 Networking • ⚙️ Automation
+</p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Cybersecurity+Learner;Python+Developer;Linux+Power+User;Future+Pentester;CTF+Player;Secure+Code+Builder"/>
 </p>
