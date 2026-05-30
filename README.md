@@ -19,6 +19,31 @@
 * 🧪 Hands-on mindset → Practice > Theory
 
 ---
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://instagram.com/ganeshpatil_091">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://x.com/ankur3_101106">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="mailto:ankurdcs101106@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/ankur101106">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/ankur3-101106">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://gitlab.com/ankur3-101106">
+    <img src="https://skillicons.dev/icons?i=gitlab" />
+  </a>
+  <a href="https://discord.com/users/ankur3_101106">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
 
 ## 🔐 Cybersecurity Skills
 
