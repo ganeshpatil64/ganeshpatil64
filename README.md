@@ -71,15 +71,6 @@ Linux • Git • Burp Suite • Metasploit • Nmap • Postman
 * Improving networking knowledge
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ganeshhpatil64&show_icons=true&theme=tokyonight"/>
-<img src="https://streak-stats.demolab.com?user=ganeshhpatil64&theme=tokyonight"/>
-</p>
-
----
 ## 💻 Linux & Unix-based Experience
 
 <p align="center">
@@ -105,16 +96,18 @@ Linux • Git • Burp Suite • Metasploit • Nmap • Postman
 </p>
 # 📊 GitHub Activity
 
-## 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=ganeshpatil64&theme=dark)](https://git.io/streak-stats)
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganeshpatil64&show_icons=true&theme=dark)
-
 ## 📊 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ganeshpatil64&theme=github-dark)
+
+
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ganeshpatil64&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ganeshpatil64&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📈 GitHub Stats
+![Ganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganeshpatil64&show_icons=true&theme=onedark&hide_border=true)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=ganeshpatil64&theme=onedark&hide_border=true)
 
 ## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshpatil64&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshpatil64&layout=compact&theme=onedark&hide_border=true)
